@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-family: "Public Sans", sans-serif;
+}
+
+picture {
+    position: relative;
+    display: inline-block;
+}
+
+picture .label{
+    position: absolute;
+    bottom: 2rem;
+    margin-left: 2.2rem;
+}
+
+.label{
+    color: #FFFFFF;
+}
+
+.label .title{
+    font-weight: 700;
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+}
+
+.label .author{
+    font-weight: 300;
+    font-size: 1.7rem;
+}
+
+@media(min-width:520px){
+    main{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+        margin: 12.8rem, 2.1rem ;
+    }
+
+    picture{
+        padding: 1rem;
+    }
+}
