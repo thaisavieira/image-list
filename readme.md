@@ -1,6 +1,7 @@
 # Lista de Imagens
 
 ## Sobre
+
 Esse mini projeto é um desafio do módulo de CSS Avançado - Flexbox do curso DevQuest aonde foi necessário construir uma lista de imagens responsivas de acordo com o design dado. É possível conferir os designs propostos no [Figma](https://www.figma.com/file/DYk9DZr6urB9MZ4iNt1a61/Desafio-HTML-%2B-CSS?type=design&node-id=3-36&mode=design&t=MeoQCUJicPYQvzY2-0).
 
 ## Minha Experiência
